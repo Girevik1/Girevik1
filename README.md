@@ -1,4 +1,7 @@
-### Hi there 👋
+- 👋 Hi, I’m Arthur and work as a fullstack developer
+- 👀 I’m interested in DevOps, SRE, Oracle/PostgreSQL
+- 🌱 I’m currently learning PostgreSQL, Ansible, Go, Python, Shell, Terraform, Docker, Js, Php. 
+- 📫 How to reach me art.timerkhanov@gmail.com
 
 <!--
 **Girevik1/Girevik1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
